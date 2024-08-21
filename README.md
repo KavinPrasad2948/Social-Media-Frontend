@@ -1,6 +1,4 @@
-### `README.md`
 
-```markdown
 # PingMe - Social Media Platform 🌐
 
 PingMe is a responsive social media platform that allows users to connect, share posts, and engage with others. The frontend is built with React, utilizing Material-UI for styling and Redux for state management.
